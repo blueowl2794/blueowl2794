@@ -1,6 +1,6 @@
 ### Hola, soy Santiago 👋
 Soy un desarrollador que busca aprender nuevas herramientas y adquirir conocimientos que me ayuden a crecer profesionalmente, me divierto trabajando con Javascript, React-Redux, Node y sequelize. Tengo entre mis proyectos una app de recetas y app de países.
-De tener algún aporte o pregunta, por favor hágamelo saber.
+### De tener algún aporte o pregunta, por favor hágamelo saber.
 
 
 
