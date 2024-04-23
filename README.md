@@ -1,9 +1,12 @@
-### Hola, soy Santiago 👋
-Soy un desarrollador que busca aprender nuevas herramientas y adquirir conocimientos que me ayuden a crecer profesionalmente, me divierto trabajando con Javascript, React-Redux, Node y sequelize. Tengo algunos proyectos para presentar.
+
+# Hola, soy Santiago 👋
+
+Soy un apasionado desarrollador con experiencia en el desarrollo web utilizando tecnologías como JavaScript, React-Redux, Node.js y Sequelize. Estoy constantemente buscando oportunidades para aprender nuevas herramientas y adquirir conocimientos que me ayuden a crecer profesionalmente.
+
+💬 Si tienes algún aporte, pregunta o simplemente quieres ponerte en contacto, ¡no dudes en hacerlo! Puedes conectarte conmigo en [(https://www.linkedin.com/in/erik-santiago-olarte-molina-b3b5a2224/)].
+
+¡Espero tener la oportunidad de colaborar contigo o compartir ideas en el futuro!
  
-💬De tener algún aporte o pregunta, por favor hágamelo saber.
-
-
 
 <!--
 **blueowl2794/blueowl2794** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
