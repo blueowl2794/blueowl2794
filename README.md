@@ -1,7 +1,7 @@
 
 # Hola, soy Santiago 👋
 
-Soy un apasionado desarrollador con experiencia en el desarrollo web utilizando tecnologías como JavaScript, React-Redux, Node.js y Sequelize. Estoy constantemente buscando oportunidades para aprender nuevas herramientas y adquirir conocimientos que me ayuden a crecer profesionalmente.
+Soy un apasionado de la tecnología con experiencia en el desarrollo web, tengo conocimientos en JavaScript, React-Redux, Node.js y Sequelize. Estoy constantemente buscando oportunidades para aprender nuevas herramientas y adquirir conocimientos que me ayuden a crecer profesionalmente.
 
 💬 Si tienes algún aporte, pregunta o simplemente quieres ponerte en contacto, ¡no dudes en hacerlo! Puedes conectarte conmigo en https://www.linkedin.com/in/erik-santiago-olarte-molina-b3b5a2224/.
 
